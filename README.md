@@ -1,7 +1,8 @@
 ## Hi there 👋
 COMO ME CAMBIO DE CARRERA
-![IMAGEN DE UN AGUACATE](https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/imgres?q=aguacates%20online&imgurl=https%3A%2F%2Fsolofruver.com%2Fwp-content%2Fuploads%2F2020%2F06%2Faguacate-comun.jpg&imgrefurl=https%3A%2F%2Fsolofruver.com%2Fventa-de-frutas-y-verduras%2Faguacate-comun-x-500g%2F&docid=24unGJ7t8aMS3M&tbnid=qpJAydBEJQweEM&vet=12ahUKEwiahKKDpKiLAxWZQzABHW3QEdIQM3oECBYQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiahKKDpKiLAxWZQzABHW3QEdIQM3oECBYQAA)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolofruver.com%2Fventa-de-frutas-y-verduras%2Faguacate-comun-x-500g%2F&psig=AOvVaw0U79HsdagbbAIJStuK8Q1o&ust=1738698920060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPinoKqkqIsDFQAAAAAdAAAAABAE)
-<!--
+![IMAGEN DE UN AGUACATE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolofruver.com%2Fventa-de-frutas-y-verduras%2Faguacate-comun-x-500g%2F&psig=AOvVaw0U79HsdagbbAIJStuK8Q1o&ust=1738698920060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPinoKqkqIsDFQAAAAAdAAAAABAE)
+
+
 **LevidSoto/LevidSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
