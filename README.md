@@ -1,7 +1,6 @@
 ## Hi there 👋
 COMO ME CAMBIO DE CARRERA
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolofruver.com%2Fventa-de-frutas-y-verduras%2Faguacate-comun-x-500g%2F&psig=AOvVaw0U79HsdagbbAIJStuK8Q1o&ust=1738698920060000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPinoKqkqIsDFQAAAAAdAAAAABAE"/>
-
+<img src="https://medellin.lhm.com.co/wp-content/uploads/2020/11/AGUACATE-chocket1_result-1.png"/>
 
 **LevidSoto/LevidSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
